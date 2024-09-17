@@ -115,7 +115,7 @@
         <div class="logo">
             <img src="https://mf-chan.com/tel-u-logo/lib/Tel-U/primer-vertikal.png" alt="Logo Sekolah">
         </div>
-        <h3>{{ __('Login Sekolah') }}</h3>
+        <h3>{{ __('Telkom University Surabaya') }}</h3>
         <form method="POST" action="{{ route('login') }}">
             @csrf
             <div class="form-group">
