@@ -1,4 +1,5 @@
-![alt text](https://github.com/DESFIANTO/website-app/blob/main/Screenshot%202024-09-17%20223342.png?raw=true)
+![alt text](![Screenshot 2024-09-17 223342](https://github.com/user-attachments/assets/2d7782f1-6c7f-4550-86f6-a8ef1be1431a)
+?raw=true)
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
